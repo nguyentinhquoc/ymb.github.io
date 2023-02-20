@@ -4,6 +4,7 @@
     margin: 0px;
     color: #10a88c;
     padding: 20px 0px 20px 0px;
+    font-size: 50px;
 }
 }
 
@@ -55,7 +56,7 @@
 .textnd1 {
     float: right;
     padding: 0px 0px 0px 200px;
-
+font-size: 16px;
     color: #c66015;
 }
 
@@ -63,6 +64,8 @@
     padding: 0px 200px 5px 0px;
     float: left;
     color: #c66015;
+font-size: 16px;
+
 
 }
 
@@ -101,8 +104,9 @@
 
 /* --------------- */
 footer {
-    padding: 10px 0px 0px 600px;
-    background: gray;
+    padding: 30px 0px 20px 600px;
+    background: rgb(180, 243, 174);
+    
 
 }
 
@@ -174,8 +178,8 @@ footer {
 .imgdt {
     position: absolute;
     position: fixed;
-    margin: 700px 0px 100px 90px;
-    width: 100px;
+    margin: 770px 0px 100px 90px;
+    width: 70px;
 
 }*{
     margin: 0px;
